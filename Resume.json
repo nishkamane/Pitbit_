@@ -1,0 +1,96 @@
+
+{
+  "name": "Nishka Mane",
+  "contact": {
+    "email": "nishka.mane211@vit.edu",
+    "phone": "(+91) 9021477170",
+    "LinkedIn": "LinkedIn"
+  },
+  "skills": {
+    "technicalSkills": ["C", "Python", "DBMS", "HTML", "CSS", "SQL"],
+    "softSkills": ["Event Management", "Team Management", "Public Speaking", "Critical Thinking"],
+    "documentation": ["MS Office"]
+  },
+  "projects": [
+    {
+      "name": "ANTI-SLEEP ALARM SYSTEM",
+      "description": "An innovative system using Arduino UNO and IR sensors to boost driver safety. It actively monitors surroundings, detects obstacles and low-light conditions, and provides real-time alerts, reducing accidents and enhancing road safety.",
+      "toolsUsed": ["Arduino UNO"]
+    },
+    {
+      "name": "TRACE YOUR REFLEX VIA GAME",
+      "description": "To combat excessive screen time in children during lockdowns. We offer 3–4 games for under-5 years, boosting logical reasoning and reflexes and making learning enjoyable.",
+      "toolsUsed": ["HTML", "CSS", "JS", "WEB DEVELOPMENT"]
+    },
+    {
+      "name": "ABSTRACTIVE TEXT SUMMARIZER USING PEGASUS",
+      "description": "Developed a website for abstractive text summarizer using Google’s state-of-the-art Pegasus model.",
+      "toolsUsed": ["Python", "Django", "JavaScript", "HTML/CSS", "MySQL"]
+    },
+    {
+      "name": "IoT-Enabled Smart Helmet",
+      "description": "The IoT-Enabled Smart Helmet enhances motorcycle rider safety with three key features: alcohol detection to prevent drunk driving, drowsiness detection to keep riders alert, and helmet detection to ensure proper usage.",
+      "toolsUsed": ["Arduino UNO", "Arduino IDE", "Sensors", "Relay", "Buzzer", "Motor", "GPS", "GSM"]
+    },
+    {
+      "name": "Crack Identification in Bridge Infrastructure Using Machine Learning",
+      "description": "This project uses high-resolution camera-equipped drones and advanced machine learning to detect and classify structural cracks on bridges in real-time. It employs computer vision techniques to process vast image data, distinguishing between anomalies and monitoring crack progression. This innovation enhances bridge safety and provides essential insights into structural health.",
+      "toolsUsed": ["Machine Learning", "Training Data", "Computer Vision", "Image Processing", "Data Visualization Tools"]
+    }
+  ],
+  "education": [
+    {
+      "level": "10th",
+      "institution": "Mount Carmel Convent High School, Pune",
+      "year": "2018 - 2019",
+      "percentage": "70%"
+    },
+    {
+      "level": "12th",
+      "institution": "Mahatma Phule International School and Junior College, Pune",
+      "year": "2020 - 2021",
+      "percentage": "83.33%"
+    },
+    {
+      "degree": "Bachelor of Technology, Information Technology",
+      "institution": "Vishwakarma Institute of Technology, Pune",
+      "year": "January 2022 - May 2025",
+      "percentage": "8.31 (currently pursuing)"
+    }
+  ],
+  "collegiateExperienceAndLeadership": [
+    {
+      "role": "Competition Co-ordinator (CC)",
+      "description": "Coordinated an internal event for the 2023 Smart India Hackathon."
+    },
+    {
+      "role": "Event Planning and Execution Committee (EPEC)",
+      "description": "Demonstrated organizational skills by overseeing and coordinating event venues, ensuring seamless execution of events."
+    },
+    {
+      "role": "Social Welfare and Development (SWD)",
+      "description": "Actively volunteered and participated in a variety of events, contributing to their successful execution."
+    }
+  ],
+  "achievements": {
+    "certifications": [
+      "Finalist in EmpowerHER Hackathon (2023)",
+      "Winner in Internal SIH Hackathon (2023) VIT, Pune",
+      "Generative AI for Everyone (fractal)",
+      "Google UX Design (GOOGLE)"
+    ],
+    "researchPapers": [
+      {
+        "title": "IoT-Enabled Smart Helmet",
+        "publication": "Springer",
+        "indexing": "Scopus",
+        "year": "2024"
+      },
+      {
+        "title": "Abstractive Text Summarizer Using PEGASUS",
+        "conference": "13th International Conference on Science and Innovative Engineering",
+        "year": "2023"
+      }
+    ]
+  }
+}
